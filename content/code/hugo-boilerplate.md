@@ -1,4 +1,23 @@
-# Hugo Boilerplate
+---
+author: enten
+github: enten/hugo-boilerplate
+ghribbon: red-upright
+date: 2015-09-14T15:08:27+02:00
+description: Boilerplate to start fast with hugo.
+draft: false
+keywords:
+- hugo
+- boilerplate
+- static
+- site
+tags:
+- go
+- boilerplate
+- site
+title: Hugo Boilerplate
+topics:
+- project
+---
 
 Boilerplate to start fast with [Hugo](http://gohugo.io/).
 
@@ -15,7 +34,7 @@ Boilerplate to start fast with [Hugo](http://gohugo.io/).
 * [node](https://nodejs.org)
 * [npm](https://www.npmjs.com/about)
 
-## Installation
+## Installation
 
 ```bash
 # clone hugo-boilerplate into new project folder
@@ -46,7 +65,7 @@ cd awesome-site
 vi config.toml
 
 # configure origin repository
-git remote add origin https://github.com/<USERNAME>/<REPONAME>
+git remote add origin http://github.com/<USERNAME>/<REPONAME>
 
 # run deployment task
 npm run deploy:gh
@@ -89,3 +108,4 @@ __Warnings__ :
 ## License
 
 Open sourced under the [MIT license](https://github.com/enten/hugo-boilerplate/blob/master/LICENSE).
+
