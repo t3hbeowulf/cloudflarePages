@@ -1,4 +1,4 @@
-baseURL = "http://www.mablab.host/"
+baseURL = "https://www.mablab.net/"
 languageCode = "en-us"
-title = "MAB Lab Hosts"
+title = "MAB Lab Network"
 theme = "ananke"
